@@ -1,4 +1,6 @@
-# ML based web project which predicts whether a news is fake or real.
+# Fake News Detector
+
+ML based web project which predicts whether a news is fake or real.
 ![Screenshot (754)](https://github.com/lakshay451/Fake-News-Detection/assets/89472581/226b2612-43d2-44e8-ad82-a9646f3f6a45)
 
 Just Copy & Paste the news article,
