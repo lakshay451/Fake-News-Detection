@@ -1,5 +1,7 @@
 # Fake News Detector
 
+Live Link - https://fakenewsdetector-26sg.onrender.com/
+
 ML based web project which predicts whether a news is fake or real.
 ![Screenshot (754)](https://github.com/lakshay451/Fake-News-Detection/assets/89472581/226b2612-43d2-44e8-ad82-a9646f3f6a45)
 
